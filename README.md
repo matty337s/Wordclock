@@ -16,9 +16,9 @@ KiCad files are located in the [Hardware](https://github.com/matty337s/Wordclock
 
 Gerber and assembly files are located in the [Production](https://github.com/matty337s/Wordclock/tree/main/Hardware)  folder. The assembly files are for JLCPCBs assembly service, and all components (excluding phototransistor and pin header) can be provided and assembled by them. I am not affiated with them in any way, and the assembly files can be easily modified for other manufacturers.
 
-CAD files for laser cutting the clockface and internal structure are located in the [CAD](https://github.com/matty337s/Wordclock/tree/main/Hardware)  folder. **WIP**
+CAD files for laser cutting the clockface and internal structure are located in the [CAD](https://github.com/matty337s/Wordclock/tree/main/CAD)  folder. **WIP**
 
-Firmware files for the ESP32 microcontroller are located in the [Firmware](https://github.com/matty337s/Wordclock/tree/main/Hardware)  folder. **WIP**
+Firmware files for the ESP32 microcontroller are located in the [Firmware](https://github.com/matty337s/Wordclock/tree/main/Firmware)  folder. **WIP**
 
 # Hardware
 ### Features
