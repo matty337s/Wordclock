@@ -50,7 +50,7 @@ Layer 3.  The back layer contains the cutout for the PCB and LEDs. Ideally 3mm t
 Layer 2.  The middle layer/s contain cutout for the USB cable and larger openings for the LEDs to diffuse and light each letter evenly. Ideally 6mm thick, or 2x 3mm. Two sheets of baking paper can be sandwiched between these layers to further enhance the diffusion and even lighting.
 Layer 1.  The clockface can be created either using the excelent painted and engraved glass tutorial [here (again from t0mg)](https://github.com/t0mg/wordclock/blob/main/hardware/faceplate/README.md) or more simply and reliably but also more expensive by using a commercial solution called "reverse engravable laminate". 
 
-It is the same concept as the painted glass but using a laminated clear and black plastic. I have had some fantastic results using it. IPI has their version [here](https://www.inoplas.com/laserables-reverse) and Trotec has their version [here](https://www.trotec-materials.com/laser-materials/plastic/trolase-reverse.html). I'm sure there are many otheres, let me know what you find works well.
+It is the same concept as the painted glass but using a laminated clear and black plastic. I have had some fantastic results using it. IPI has their version [here](https://www.inoplas.com/laserables-reverse) and Trotec has their version [here](https://www.trotec-materials.com/laser-materials/plastic/trolase-reverse.html). I'm sure there are many others, let me know what you find works well.
 
 I will hopefully get up some assembly guides and images in the coming months.
 
