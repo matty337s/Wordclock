@@ -29,6 +29,8 @@ Firmware files for the ESP32 microcontroller are located in the [Firmware](https
 * Three programmable buttons for manual control without WiFi. Can be used as a dumb clock without any WiFi connection by setting the time and AM/PM indicator using the pushbuttons. The buttons are located on the front of the board for cheap and easy assembly, but footprints are provided on the rear if required. Soldering to the rear allows for easy access by pen from the back of the assembled clock.
 * Powered by a USB-C receptacle. This port also allows serial data to the ESP32 for easy programming and debugging using a CH340C chip. USB power supply must be rated for about 2.5A.
 
+![Schematic](https://github.com/matty337s/Wordclock/blob/main/Docs/Schematic-1.png "Schematic")
+
 ### PCB
 The PCB is panelised with 10 identical boards for the LED strips and one controller board. Boards are assembled by breaking out of the panel and soldering board to board connectors together. This reduces the overal size and cost of the panel. Be sure to select `Different Design = 2` and `Panel by Customer` to avoid unexpected charges.
 The LEDs are arranged in 16.6mm intervals. This is the same as 60LEDs per meter standard strips, which can be easily subsituted in if prefered. 
