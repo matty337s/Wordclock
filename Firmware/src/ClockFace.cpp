@@ -34,13 +34,13 @@ uint16_t ClockFace::map(int16_t x, int16_t y)
   {
   case LightSensorPosition::Top:
   {
-    static NeoTopology<ColumnMajorAlternating90Layout> sensor_on_top(
+    static NeoTopology<RowMajorLayout> sensor_on_top(
         NEOPIXEL_ROWS, NEOPIXEL_COLUMNS);
     return sensor_on_top.Map(x, y) + NEOPIXEL_SIGNALS;
   }
   case LightSensorPosition::Bottom:
   {
-    static NeoTopology<ColumnMajorAlternating270Layout> sensor_on_bottom(
+    static NeoTopology<RowMajor180Layout> sensor_on_bottom(
         NEOPIXEL_ROWS, NEOPIXEL_COLUMNS);
     return sensor_on_bottom.Map(x, y) + NEOPIXEL_SIGNALS;
   }
