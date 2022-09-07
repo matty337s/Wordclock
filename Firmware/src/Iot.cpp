@@ -14,8 +14,8 @@
 #define CONFIG_VERSION "1"
 // Port used by the IotWebConf HTTP server.
 #define WEB_SERVER_PORT 80
-// Default timezone index from Timezones.h (Paris).
-#define DEFAULT_TIMEZONE "385"
+// Default timezone index from Timezones.h (New Zealand).
+#define DEFAULT_TIMEZONE "423"
 // HTTP OK status code.
 #define HTTP_OK 200
 // NTP server.
